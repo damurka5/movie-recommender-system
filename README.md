@@ -1,6 +1,6 @@
 # movie-recommender-system
 Nurtdinov Damir BS20-RO \
-d.nurtdinov@innopolis.university\
+d.nurtdinov@innopolis.university
 
 Movie recommender system. Assignment from IU Practical Machine Learning and Deep Learning course
 
