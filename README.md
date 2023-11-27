@@ -13,7 +13,7 @@ I am new at Large Language models, so I started from reading papers. There were 
 
 # Navigation
 Folder notebooks contains all the attempts, data exploration and model creation\
-Folder data has a raw dataset and preprocessed dataset
-Folder models contains model's weights
-Folder references has some articles related to this work
+Folder data has a raw dataset and preprocessed dataset\
+Folder models contains model's weights\
+Folder references has some articles related to this work\
 Folder reports contains the deep description of this work
